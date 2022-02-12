@@ -1,0 +1,17 @@
+.dataTable-sorter {
+  text-align: center !important;
+}
+
+.dataTable-input {
+  display: none !important;
+}
+
+.page-link {
+  cursor: pointer !important;
+}
+
+@media (max-width: 958px) {
+  #table {
+    width: 900px !important;
+  }  
+}
